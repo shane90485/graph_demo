@@ -1,5 +1,6 @@
-pandas==2.2.3
+dgl -f https://data.dgl.ai/wheels/torch-2.2/repo.html
+# numpy==1.26.4
+# pandas==2.2.3
 tensorboard==2.18.0
 torch==2.2.2
 tqdm==4.66.5
-dgl -f https://data.dgl.ai/wheels/repo.html
